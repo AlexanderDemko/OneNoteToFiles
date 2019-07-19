@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<BibleTranslationDifferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" PartVersesAlphabet="абвгд">
+  <BookDifferences BookIndex="3">
+    <Difference BaseVerses="14:55-56" ParallelVerses="14:55" />
+    <Difference BaseVerses="14:57" ParallelVerses="14:56" />
+  </BookDifferences>
+  <BookDifferences BookIndex="4">
+    <Difference BaseVerses="12:16" ParallelVerses="13:1" />
+    <Difference BaseVerses="13:1-33" ParallelVerses="13:X+1" />
+    <Difference BaseVerses="29:40" ParallelVerses="30:1" />
+    <Difference BaseVerses="30:1-16" ParallelVerses="30:X+1" />
+  </BookDifferences>
+  <BookDifferences BookIndex="6">
+    <Difference BaseVerses="6:1" ParallelVerses="5:16" />
+    <Difference BaseVerses="6:2-27" ParallelVerses="6:X-1" />
+    <Difference BaseVerses="24:33" ParallelVerses="24:33-36" CorrespondenceType="First" />
+  </BookDifferences>
+  <BookDifferences BookIndex="9">
+    <Difference BaseVerses="20:42" ParallelVerses="20:42-43" />
+    <Difference BaseVerses="23:29" ParallelVerses="24:1" />
+    <Difference BaseVerses="24:1-22" ParallelVerses="24:X+1" />
+  </BookDifferences>
+  <BookDifferences BookIndex="14">
+    <Difference BaseVerses="36:23" ParallelVerses="36:23-35" CorrespondenceType="First" />
+  </BookDifferences>
+  <BookDifferences BookIndex="17">
+    <Difference BaseVerses="4:17" ParallelVerses="4:17-47" CorrespondenceType="First" />
+    <Difference BaseVerses="10:3" ParallelVerses="10:3-14" CorrespondenceType="First" />
+  </BookDifferences>
+  <BookDifferences BookIndex="18">
+    <Difference BaseVerses="40:1-5" ParallelVerses="39:31-35" />
+    <Difference BaseVerses="40:6-24" ParallelVerses="40:X-5" />
+    <Difference BaseVerses="41:1-8" ParallelVerses="40:20-27" />
+    <Difference BaseVerses="41:9-34" ParallelVerses="41:X-8" />
+  </BookDifferences>
+  <BookDifferences BookIndex="19">
+    <Difference BaseVerses="3:1" ParallelVerses="3:1-2" />
+    <Difference BaseVerses="3:2-8" ParallelVerses="X:X+1" />
+    <Difference BaseVerses="4:1" ParallelVerses="4:1-2" />
+    <Difference BaseVerses="4:2-8" ParallelVerses="X:X+1" />
+    <Difference BaseVerses="5:1" ParallelVerses="5:1-2" />
+    <Difference BaseVerses="5:2-12" ParallelVerses="X:X+1" />
+    <Difference BaseVerses="6:1" ParallelVerses="6:1-2" />
+    <Difference BaseVerses="6:2-10" ParallelVerses="X:X+1" />
+    <Difference BaseVerses="7:1" ParallelVerses="7:1-2" />
+    <Difference BaseVerses="7:2-17" ParallelVerses="X:X+1" />
+    <Difference BaseVerses="8:1" ParallelVerses="8:1-2" />
+    <Difference BaseVerses="8:2-9" ParallelVerses="X:X+1" />
+    <Difference BaseVerses="9:1" ParallelVerses="9:1-2" />
+    <Difference BaseVerses="9:2-20" ParallelVerses="X:X+1" />
+    <Difference BaseVerses="10:1" ParallelVerses="9:22" />
+    <Difference BaseVerses="10:2-18" ParallelVerses="9:X+21" />
+    <Difference BaseVerses="11:1-7" ParallelVerses="10:X" />
+    <Difference BaseVerses="12:1" ParallelVerses="X-1:1-2" />
+    <Difference BaseVerses="12:2-8" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="13:1" ParallelVerses="X-1:1-2" />
+    <Difference BaseVerses="13:2-4" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="13:5-6" ParallelVerses="12:6" />
+    <Difference BaseVerses="14:1-7" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="15:1-5" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="16:1-11" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="17:1-15" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="18:1" ParallelVerses="17:1-2" />
+    <Difference BaseVerses="18:2-50" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="19:1" ParallelVerses="18:1-2" />
+    <Difference BaseVerses="19:2-14" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="20:1" ParallelVerses="19:1-2" />
+    <Difference BaseVerses="20:2-9" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="21:1" ParallelVerses="20:1-2" />
+    <Difference BaseVerses="21:2-13" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="22:1" ParallelVerses="21:1-2" />
+    <Difference BaseVerses="22:2-31" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="23:1-6" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="24:1-10" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="25:1-22" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="26:1-12" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="27:1-14" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="28:1-9" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="29:1-11" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="30:1" ParallelVerses="29:1-2" />
+    <Difference BaseVerses="30:2-12" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="31:1" ParallelVerses="30:1-2" />
+    <Difference BaseVerses="31:2-24" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="32:1-11" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="33:1-22" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="34:1" ParallelVerses="33:1-2" />
+    <Difference BaseVerses="34:2-22" ParallelVerses="33:X+1" />
+    <Difference BaseVerses="35:1-28" ParallelVerses="34:X" />
+    <Difference BaseVerses="36:1" ParallelVerses="35:1-2" />
+    <Difference BaseVerses="36:2-12" ParallelVerses="35:X+1" />
+    <Difference BaseVerses="37:1-40" ParallelVerses="36:X" />
+    <Difference BaseVerses="38:1" ParallelVerses="37:1-2" />
+    <Difference BaseVerses="38:2-22" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="39:1" ParallelVerses="38:1-2" />
+    <Difference BaseVerses="39:2-13" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="40:1" ParallelVerses="39:1-2" />
+    <Difference BaseVerses="40:2-17" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="41:1" ParallelVerses="40:1-2" />
+    <Difference BaseVerses="41:2-13" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="42:1" ParallelVerses="41:1-2" />
+    <Difference BaseVerses="42:2-11" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="43:1-5" ParallelVerses="42:X" />
+    <Difference BaseVerses="44:1" ParallelVerses="43:1-2" />
+    <Difference BaseVerses="44:2-26" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="45:1" ParallelVerses="44:1-2" />
+    <Difference BaseVerses="45:2-17" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="46:1" ParallelVerses="45:1-2" />
+    <Difference BaseVerses="46:2-11" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="47:1" ParallelVerses="46:1-2" />
+    <Difference BaseVerses="47:2-9" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="48:1" ParallelVerses="47:1-2" />
+    <Difference BaseVerses="48:2-14" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="49:1" ParallelVerses="48:1-2" />
+    <Difference BaseVerses="49:2-20" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="50:1-23" ParallelVerses="49:X" />
+    <Difference BaseVerses="51:1" ParallelVerses="50:1-3" />
+    <Difference BaseVerses="51:2-19" ParallelVerses="X-1:X+2" />
+    <Difference BaseVerses="52:1" ParallelVerses="51:1-3" />
+    <Difference BaseVerses="52:2-9" ParallelVerses="X-1:X+2" />
+    <Difference BaseVerses="53:1" ParallelVerses="52:1-2" />
+    <Difference BaseVerses="53:2-6" ParallelVerses="52:X+1" />
+    <Difference BaseVerses="54:1" ParallelVerses="53:1-3" />
+    <Difference BaseVerses="54:2-7" ParallelVerses="53:X+2" />
+    <Difference BaseVerses="55:1" ParallelVerses="54:1-2" />
+    <Difference BaseVerses="55:2-23" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="56:1" ParallelVerses="55:1-2" />
+    <Difference BaseVerses="56:2-13" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="57:1" ParallelVerses="56:1-2" />
+    <Difference BaseVerses="57:2-11" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="58:1" ParallelVerses="57:1-2" />
+    <Difference BaseVerses="58:2-11" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="59:1" ParallelVerses="58:1-2" />
+    <Difference BaseVerses="59:2-17" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="60:1" ParallelVerses="59:1-3" />
+    <Difference BaseVerses="60:2-12" ParallelVerses="59:X+2" />
+    <Difference BaseVerses="61:1" ParallelVerses="60:1-2" />
+    <Difference BaseVerses="61:2-8" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="62:1" ParallelVerses="61:1-2" />
+    <Difference BaseVerses="62:2-12" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="63:1" ParallelVerses="62:1-2" />
+    <Difference BaseVerses="63:2-11" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="64:1" ParallelVerses="63:1-2" />
+    <Difference BaseVerses="64:2-10" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="65:1" ParallelVerses="64:1-2" />
+    <Difference BaseVerses="65:2-13" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="66:1-20" ParallelVerses="65:X" />
+    <Difference BaseVerses="67:1" ParallelVerses="66:1-2" />
+    <Difference BaseVerses="67:2-7" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="68:1" ParallelVerses="67:1-2" />
+    <Difference BaseVerses="68:2-35" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="69:1" ParallelVerses="68:1-2" />
+    <Difference BaseVerses="69:2-36" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="70:1" ParallelVerses="69:1-2" />
+    <Difference BaseVerses="70:2-5" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="71:1-24" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="72:1-20" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="73:1-28" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="74:1-23" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="75:1" ParallelVerses="74:1-2" />
+    <Difference BaseVerses="75:2-10" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="76:1" ParallelVerses="75:1-2" />
+    <Difference BaseVerses="76:2-12" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="77:1" ParallelVerses="76:1-2" />
+    <Difference BaseVerses="77:2-20" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="78:1-72" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="79:1-13" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="80:1" ParallelVerses="79:1-2" />
+    <Difference BaseVerses="80:2-19" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="81:1" ParallelVerses="80:1-2" />
+    <Difference BaseVerses="81:2-16" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="82:1-8" ParallelVerses="81:X" />
+    <Difference BaseVerses="83:1" ParallelVerses="82:1-2" />
+    <Difference BaseVerses="83:2-18" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="84:1" ParallelVerses="83:1-2" />
+    <Difference BaseVerses="84:2-12" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="85:1" ParallelVerses="84:1-2" />
+    <Difference BaseVerses="85:2-13" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="86:1-17" ParallelVerses="85:X" />
+    <Difference BaseVerses="87:1" ParallelVerses="86:1-2(1)" />
+    <Difference BaseVerses="87:2" ParallelVerses="86:2(2)" />
+    <Difference BaseVerses="87:3-7" ParallelVerses="86:X" />
+    <Difference BaseVerses="88:1" ParallelVerses="87:1-2" />
+    <Difference BaseVerses="88:2-18" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="89:1" ParallelVerses="88:1-2" />
+    <Difference BaseVerses="89:2-52" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="90:1" ParallelVerses="89:1-2" />
+    <Difference BaseVerses="90:2-4" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="90:5-6" ParallelVerses="89:6" />
+    <Difference BaseVerses="90:7-17" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="91:1-16" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="92:1" ParallelVerses="91:1-2" />
+    <Difference BaseVerses="92:2-15" ParallelVerses="91:X+1" />
+    <Difference BaseVerses="93:1-5" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="94:1-23" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="95:1-11" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="96:1-13" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="97:1-12" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="98:1-9" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="99:1-9" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="100:1-5" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="101:1-8" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="102:1" ParallelVerses="101:1-2" />
+    <Difference BaseVerses="102:2-28" ParallelVerses="101:X+1" />
+    <Difference BaseVerses="103:1-22" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="104:1-35" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="105:1-45" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="106:1-48" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="107:1-43" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="108:1" ParallelVerses="107:1-2" />
+    <Difference BaseVerses="108:2-13" ParallelVerses="107:X+1" />
+    <Difference BaseVerses="109:1-31" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="110:1-7" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="111:1-10" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="112:1-10" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="113:1-9" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="114:1-8" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="115:1-18" ParallelVerses="113:X+8" />
+    <Difference BaseVerses="116:1-7" ParallelVerses="114:X" />
+    <Difference BaseVerses="116:8-9" ParallelVerses="114:8" />
+    <Difference BaseVerses="116:10-19" ParallelVerses="115:X-9" />
+    <Difference BaseVerses="117:1-2" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="118:1-29" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="119:1-176" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="120:1-7" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="121:1-8" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="122:1-9" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="123:1-4" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="124:1-8" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="125:1-5" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="126:1-6" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="127:1-5" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="128:1-6" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="129:1-8" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="130:1-8" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="131:1-3" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="132:1-18" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="133:1-3" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="134:1-3" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="135:1-21" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="136:1-26" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="137:1-9" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="138:1-8" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="139:1-24" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="140:1" ParallelVerses="139:1-2" />
+    <Difference BaseVerses="140:2-13" ParallelVerses="X-1:X+1" />
+    <Difference BaseVerses="141:1-10" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="142:1-7" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="143:1-12" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="144:1-15" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="145:1-21" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="146:1-10" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="147:1-11" ParallelVerses="X-1:X" />
+    <Difference BaseVerses="147:12-20" ParallelVerses="147:X-11" />
+    <Difference BaseVerses="" ParallelVerses="151:1-7" />
+  </BookDifferences>
+  <BookDifferences BookIndex="20">
+    <Difference BaseVerses="4:27" ParallelVerses="4:27-29" CorrespondenceType="First" />
+    <Difference BaseVerses="13:13" ParallelVerses="13:13-14" CorrespondenceType="First" />
+    <Difference BaseVerses="13:14-25" ParallelVerses="13:X+1" />
+    <Difference BaseVerses="18:7" ParallelVerses="18:7-8" CorrespondenceType="First" />
+    <Difference BaseVerses="18:8-24" ParallelVerses="18:X+1" />
+  </BookDifferences>
+  <BookDifferences BookIndex="21">
+    <Difference BaseVerses="5:1" ParallelVerses="4:17" />
+    <Difference BaseVerses="5:2-20" ParallelVerses="5:X-1" />
+  </BookDifferences>
+  <BookDifferences BookIndex="22">
+    <Difference BaseVerses="1:1" ParallelVerses="" />
+    <Difference BaseVerses="1:2" ParallelVerses="1:1" />
+    <Difference BaseVerses="1:3-17" ParallelVerses="1:X-1" />
+    <Difference BaseVerses="6:13" ParallelVerses="7:1" />
+    <Difference BaseVerses="7:1-13" ParallelVerses="7:X+1" />
+  </BookDifferences>
+  <BookDifferences BookIndex="23">
+    <Difference BaseVerses="3:19-20" ParallelVerses="3:19" />
+    <Difference BaseVerses="3:21-26" ParallelVerses="3:X-1" />
+  </BookDifferences>
+  <BookDifferences BookIndex="27">
+    <Difference BaseVerses="3:23" ParallelVerses="3:23-90" CorrespondenceType="First" />
+    <Difference BaseVerses="3:24-30" ParallelVerses="3:91-97" />
+    <Difference BaseVerses="4:1-3" ParallelVerses="3:98-100" />
+    <Difference BaseVerses="4:4-37" ParallelVerses="4:X-3" />
+    <Difference BaseVerses="" ParallelVerses="13:1-64" />
+    <Difference BaseVerses="" ParallelVerses="14:1-42" />
+  </BookDifferences>
+  <BookDifferences BookIndex="28">
+    <Difference BaseVerses="13:16" ParallelVerses="14:1" />
+    <Difference BaseVerses="14:1-9" ParallelVerses="14:X+1" />
+  </BookDifferences>
+  <BookDifferences BookIndex="32">
+    <Difference BaseVerses="1:17" ParallelVerses="2:1" />
+    <Difference BaseVerses="2:1-10" ParallelVerses="2:X+1" />
+  </BookDifferences>
+  <BookDifferences BookIndex="44">
+    <Difference BaseVerses="1:15" ParallelVerses="1:15-16(1)" />
+    <Difference BaseVerses="1:16" ParallelVerses="1:16(2)" />
+    <Difference BaseVerses="19:40-41" ParallelVerses="19:40" />
+  </BookDifferences>
+  <BookDifferences BookIndex="45">
+    <Difference BaseVerses="15:1" ParallelVerses="15:1" SkipCheck="true" />
+    <Difference BaseVerses="16:25-27" ParallelVerses="14:24-26" SkipCheck="true" />
+  </BookDifferences>
+  <BookDifferences BookIndex="47">
+    <Difference BaseVerses="11:32-33" ParallelVerses="11:32" />
+    <Difference BaseVerses="13:12-13" ParallelVerses="13:12" />
+    <Difference BaseVerses="13:14" ParallelVerses="13:13" />
+  </BookDifferences>
+  <BookDifferences BookIndex="49">
+    <Difference BaseVerses="3:17" ParallelVerses="3:17-18(1)" />
+    <Difference BaseVerses="3:18" ParallelVerses="3:18(2)" />
+  </BookDifferences>
+  <BookDifferences BookIndex="64">
+    <Difference BaseVerses="1:14" ParallelVerses="1:14-15" />
+  </BookDifferences>
+</BibleTranslationDifferences>

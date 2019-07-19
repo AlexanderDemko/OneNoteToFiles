@@ -1,0 +1,98 @@
+﻿<?xml version="1.0"?>
+<ID descr="rst" alphabet="АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя">
+  <BOOK bnumber="1" bshort="быт;бт;бытие">Бытие</BOOK>
+  <BOOK bnumber="2" bshort="исх;исход">Исход</BOOK>
+  <BOOK bnumber="3" bshort="лев;лв;левит">Левит</BOOK>
+  <BOOK bnumber="4" bshort="чис;чс;числ;числа">Числа</BOOK>
+  <BOOK bnumber="5" bshort="втор;вт;втрзк;второзаконие">Второзаконие</BOOK>
+  <BOOK bnumber="6" bshort="нав;иисус;навин">Иисус Навин</BOOK>
+  <BOOK bnumber="7" bshort="суд;сд;судьи">Судьи</BOOK>
+  <BOOK bnumber="8" bshort="руф;рф;руфь">Руфь</BOOK>
+  <BOOK bnumber="9" bshort="1цар;1цр;1ц;'1царств'">1-я Царств</BOOK>
+  <BOOK bnumber="10" bshort="2цар;2цр;2ц;'2царств'">2-я Царств</BOOK>
+  <BOOK bnumber="11" bshort="3цар;3цр;3ц;'3царств'">3-я Царств</BOOK>
+  <BOOK bnumber="12" bshort="4цар;4цр;4ц;'4царств'">4-я Царств</BOOK>
+  <BOOK bnumber="13" bshort="1пар;1пр">1-я Паралипоменон</BOOK>
+  <BOOK bnumber="14" bshort="2пар;2пр">2-я Паралипоменон</BOOK>
+  <BOOK bnumber="15" bshort="ездр;езд;ез;ездра">Ездра</BOOK>
+  <BOOK bnumber="16" bshort="неем;нм;неемия">Неемия</BOOK>
+  <BOOK bnumber="17" bshort="есф;ес;есфирь">Есфирь</BOOK>
+  <BOOK bnumber="18" bshort="иов;ив">Иов</BOOK>
+  <BOOK bnumber="19" bshort="пс;псалт;псал;псл;псалом;псалтирь;псалмы">Псалтирь</BOOK>
+  <BOOK bnumber="20" bshort="прит;притч;пр;притчи;притча">Притчи</BOOK>
+  <BOOK bnumber="21" bshort="еккл;ек;екк;екклесиаст">Екклесиаст</BOOK>
+  <BOOK bnumber="22" bshort="песн;пес;псн;песни;песней;песня">Песня Песней</BOOK>
+  <BOOK bnumber="23" bshort="ис;иса;исаия;исайя">Исаия</BOOK>
+  <BOOK bnumber="24" bshort="иер;иерем;иеремия">Иеремия</BOOK>
+  <BOOK bnumber="25" bshort="плач;плч;пл.иеремии">Плач Иеремии</BOOK>
+  <BOOK bnumber="26" bshort="иез;из;иезек;иезекииль">Иезекииль</BOOK>
+  <BOOK bnumber="27" bshort="дан;дн;днл;даниил">Даниил</BOOK>
+  <BOOK bnumber="28" bshort="ос;осия">Осия</BOOK>
+  <BOOK bnumber="29" bshort="иоил;ил;иоиль">Иоиль</BOOK>
+  <BOOK bnumber="30" bshort="ам;амс;амос">Амос</BOOK>
+  <BOOK bnumber="31" bshort="авд;авдий">Авдий</BOOK>
+  <BOOK bnumber="32" bshort="ион;иона">Иона</BOOK>
+  <BOOK bnumber="33" bshort="мих;мх;михей">Михей</BOOK>
+  <BOOK bnumber="34" bshort="наум">Наум</BOOK>
+  <BOOK bnumber="35" bshort="авв;аввак;аввакум">Аввакум</BOOK>
+  <BOOK bnumber="36" bshort="соф;софон;софония">Софония</BOOK>
+  <BOOK bnumber="37" bshort="агг;аггей">Аггей</BOOK>
+  <BOOK bnumber="38" bshort="зах;зхр;захар;захария">Захария</BOOK>
+  <BOOK bnumber="39" bshort="мал;малах;млх;малахия">Малахия</BOOK>
+
+  <BOOK bnumber="67" bshort="иудиф;иудифь">Иудифь (А)</BOOK>
+  <BOOK bnumber="68" bshort="Wis">Wisdom</BOOK>
+  <BOOK bnumber="69" bshort="тов;товит">Товит (А)</BOOK>
+  <BOOK bnumber="70" bshort="сир;сирах">Сирах (А)</BOOK>
+  <BOOK bnumber="71" bshort="вар;варух">Варух (А)</BOOK>
+  <BOOK bnumber="72" bshort="1макк;1мак;1маккав;1маккавейская">1 кн. Маккавейская (А)</BOOK>
+  <BOOK bnumber="73" bshort="2макк;2мак;2маккав;2маккавейская">2 кн. Маккавейская (А)</BOOK>
+  <BOOK bnumber="74" bshort="AddDan">AddDan</BOOK>
+  <BOOK bnumber="75" bshort="AddEsth">AddEsth</BOOK>
+  <BOOK bnumber="76" bshort="PrMan">Manassse</BOOK>
+  <BOOK bnumber="77" bshort="3макк;3мак;3маккав;3маккавейская">3 кн. Маккавейская (А)</BOOK>
+  <BOOK bnumber="78" bshort="4макк;4мак;4маккав;4маккавейская">4 кн. Маккавейская (А)</BOOK>
+  <BOOK bnumber="79" bshort="посл.иер;посл.иерем;посл.иеремии">Послание Иеремии (А)</BOOK>
+  <BOOK bnumber="80" bshort="2ездр;2езд;2ез;2ездра">2 кн. Ездры (А)</BOOK>
+  <BOOK bnumber="81" bshort="3ездр;3езд;3ез;3ездра">3 кн. Ездры (А)</BOOK>
+  <BOOK bnumber="82" bshort="OdesSol">Odes of Solomon</BOOK>
+  <BOOK bnumber="83" bshort="PssSol">Psalms of Solomon</BOOK>
+  <BOOK bnumber="84" bshort="Lao">Laodiceans</BOOK>
+  <BOOK bnumber="85" bshort="1En">1 Enoch</BOOK>
+  <BOOK bnumber="86" bshort="Jub">Jubilees</BOOK>
+  <BOOK bnumber="87" bshort="Sus">Susanna</BOOK>
+  <BOOK bnumber="88" bshort="Bel">Bel and the Dragon</BOOK>
+  <BOOK bnumber="89" bshort="Ps151">Psalm 151</BOOK>
+  <BOOK bnumber="90" bshort="SusTh">Susanna (Theodotion)</BOOK>
+  <BOOK bnumber="91" bshort="BelTh">Bel and the Dragon (Theodotion)</BOOK>
+
+  <BOOK bnumber="201" bshort="прем.сол;премудр.соломон;премудрости;премудрость;премудр;прем">Премудрость Соломона (А)</BOOK>
+
+  <BOOK bnumber="40" bshort="матф;мтф;мф;мт;матфея;матфей;мат">От Матфея</BOOK>
+  <BOOK bnumber="41" bshort="мар;марк;мрк;мр;марка;мк">От Марка</BOOK>
+  <BOOK bnumber="42" bshort="лук;лк;луки">От Луки</BOOK>
+  <BOOK bnumber="43" bshort="иоан;ин;иоанн;иоанна">От Иоанна</BOOK>
+  <BOOK bnumber="44" bshort="деян;дея;деяния">Деяния</BOOK>
+  <BOOK bnumber="59" bshort="иак;ик;иаков;иакова">Иакова</BOOK>
+  <BOOK bnumber="60" bshort="1пет;1пт;1птр;1петр;1петра">1-е Петра</BOOK>
+  <BOOK bnumber="61" bshort="2пет;2пт;2птр;2петр;2петра">2-е Петра</BOOK>
+  <BOOK bnumber="62" bshort="1иоан;1ин;1иоанн;1иоанна">1-е Иоанна</BOOK>
+  <BOOK bnumber="63" bshort="2иоан;2ин;2иоанн;2иоанна">2-е Иоанна</BOOK>
+  <BOOK bnumber="64" bshort="3иоан;3ин;3иоанн;3иоанна">3-е Иоанна</BOOK>
+  <BOOK bnumber="65" bshort="иуд;ид;иуда;иуды">Иуды</BOOK>
+  <BOOK bnumber="45" bshort="рим;римл;римлянам">К Римлянам</BOOK>
+  <BOOK bnumber="46" bshort="1кор;1коринф;1коринфянам">1-е Коринфянам</BOOK>
+  <BOOK bnumber="47" bshort="2кор;2коринф;2коринфянам">2-е Коринфянам</BOOK>
+  <BOOK bnumber="48" bshort="гал;галат;галатам">К Галатам</BOOK>
+  <BOOK bnumber="49" bshort="еф;ефес;ефесянам">К Ефесянам</BOOK>
+  <BOOK bnumber="50" bshort="фил;флп;филип;филиппийцам">К Филиппийцам</BOOK>
+  <BOOK bnumber="51" bshort="кол;колос;колоссянам">К Колоссянам</BOOK>
+  <BOOK bnumber="52" bshort="1фесс;1фес;1фессалоникийцам;1сол;1солунянам">1-е Фессалоникийцам</BOOK>
+  <BOOK bnumber="53" bshort="2фесс;2фес;2фессалоникийцам;2сол;2солунянам">2-е Фессалоникийцам</BOOK>
+  <BOOK bnumber="54" bshort="1тим;1тимоф;1тимофею">1-е Тимофею</BOOK>
+  <BOOK bnumber="55" bshort="2тим;2тимоф;2тимофею">2-е Тимофею</BOOK>
+  <BOOK bnumber="56" bshort="тит;титу">К Титу</BOOK>
+  <BOOK bnumber="57" bshort="флм;филимон;филимону">К Филимону</BOOK>
+  <BOOK bnumber="58" bshort="евр;евреям">К Евреям</BOOK>
+  <BOOK bnumber="66" bshort="откр;отк;откровен;апок;откровение;апокалипсис">Откровение</BOOK>
+</ID>

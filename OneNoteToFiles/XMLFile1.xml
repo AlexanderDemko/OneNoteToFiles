@@ -1,0 +1,133 @@
+﻿<?xml version="1.0"?>
+<one:Page xmlns:one="http://schemas.microsoft.com/office/onenote/2010/onenote" ID="{47FDEA85-F890-4050-95D2-1F487A21A9E9}{1}{B0}" name="7 стих. [Бытие 2]" dateTime="2012-12-20T08:30:48.000Z" lastModifiedTime="2012-12-20T08:46:14.000Z" pageLevel="2" isCurrentlyViewed="true" selected="partial" lang="ru">
+  <one:QuickStyleDef index="0" name="PageTitle" fontColor="automatic" highlightColor="automatic" font="Calibri" fontSize="17.0" spaceBefore="0.0" spaceAfter="0.0" />
+  <one:QuickStyleDef index="1" name="p" fontColor="automatic" highlightColor="automatic" font="Calibri" fontSize="11.0" spaceBefore="0.0" spaceAfter="0.0" />
+  <one:Meta name="IsSummaryNotesPage" content="True" />
+  <one:Meta name="NotesPageManagerName" content="NotesPageManagerEx" />
+  <one:PageSettings RTL="false" color="automatic">
+    <one:PageSize>
+      <one:Automatic />
+    </one:PageSize>
+    <one:RuleLines visible="false" />
+  </one:PageSettings>
+  <one:Title lang="ru">
+    <one:OE author="Aleksandr Demko(Luxsoft)" authorInitials="AD" lastModifiedBy="Aleksandr Demko(Luxsoft)" lastModifiedByInitials="AD" creationTime="2012-12-20T08:30:48.000Z" lastModifiedTime="2012-12-20T08:35:15.000Z" objectID="{53434BD3-200A-48B5-8E36-34DD1A268238}{15}{B0}" alignment="left" quickStyleIndex="0">
+      <one:T>
+        <![CDATA[<span
+style='font-size:17.0pt'>7 стих. </span><span style='font-size:10.0pt'>[</span><a
+href="onenote://C:/Users/lux_demko/Desktop/temp/OneNote%20Notebooks/Библия/Ветхий%20Завет/01.%20Бытие.one#2%20глава.%20Бытие&amp;section-id={EDC1EF05-1019-4B20-980C-9D29802AD283}&amp;page-id={053FF279-F54D-493A-9EA5-C9786A5EBB5D}&amp;object-id={16B69D1E-3329-47A9-9E2B-2598CB7CE136}&amp;11&amp;bv=1&amp;qa=1"><span
+style='font-size:10.0pt'>Бытие 2</span></a><span style='font-size:10.0pt'>]</span>]]>
+      </one:T>
+    </one:OE>
+  </one:Title>
+  <one:Outline author="Aleksandr Demko(Luxsoft)" authorInitials="AD" lastModifiedBy="Aleksandr Demko(Luxsoft)" lastModifiedByInitials="AD" lastModifiedTime="2012-12-20T08:46:10.000Z" objectID="{14829827-B608-467A-A1BF-4BB201A2C91C}{11}{B0}">
+    <one:Position x="36.0" y="86.4000015258789" z="0" />
+    <one:Size width="590.8724365234374" height="161.1325836181641" isSetByUser="true" />
+    <one:OEChildren indent="2">
+      <one:OE creationTime="2012-12-20T08:35:27.000Z" lastModifiedTime="2012-12-20T08:35:29.000Z" objectID="{14829827-B608-467A-A1BF-4BB201A2C91C}{15}{B0}" alignment="left" quickStyleIndex="1">
+        <one:List>
+          <one:Number numberSequence="1" numberFormat="##." fontSize="11.0" font="Calibri" language="1049" text="I." />
+        </one:List>
+        <one:T><![CDATA[Изучение Библии]]></one:T>
+        <one:OEChildren>
+          <one:OE creationTime="2012-12-20T08:39:20.000Z" lastModifiedTime="2012-12-20T08:39:22.000Z" objectID="{14829827-B608-467A-A1BF-4BB201A2C91C}{27}{B0}" alignment="left" quickStyleIndex="1">
+            <one:List>
+              <one:Number numberSequence="3" numberFormat="##." fontSize="11.0" font="Calibri" language="1049" text="A." />
+            </one:List>
+            <one:T><![CDATA[Проповеди]]></one:T>
+            <one:OEChildren>
+              <one:OE creationTime="2012-12-20T08:39:34.000Z" lastModifiedTime="2012-12-20T08:39:34.000Z" objectID="{14829827-B608-467A-A1BF-4BB201A2C91C}{37}{B0}" alignment="left" quickStyleIndex="1">
+                <one:List>
+                  <one:Number numberSequence="0" numberFormat="##." fontSize="11.0" font="Calibri" language="1049" text="1." />
+                </one:List>
+                <one:T><![CDATA[Занин]]></one:T>
+                <one:OEChildren>
+                  <one:OE creationTime="2012-12-20T08:39:45.000Z" lastModifiedTime="2012-12-20T08:39:46.000Z" objectID="{14829827-B608-467A-A1BF-4BB201A2C91C}{47}{B0}" alignment="left" quickStyleIndex="1">
+                    <one:List>
+                      <one:Number numberSequence="4" numberFormat="##." fontSize="11.0" font="Calibri" language="1049" text="a." />
+                    </one:List>
+                    <one:T><![CDATA[Малахия]]></one:T>
+                    <one:OEChildren>
+                      <one:OE creationTime="2012-12-20T08:40:40.000Z" lastModifiedTime="2012-12-20T08:40:40.000Z" objectID="{14829827-B608-467A-A1BF-4BB201A2C91C}{68}{B0}" alignment="left" quickStyleIndex="1">
+                        <one:List>
+                          <one:Number numberSequence="0" numberFormat="##)" fontSize="11.0" font="Calibri" language="1049" text="1)" />
+                        </one:List>
+                        <one:T><![CDATA[Уроки]]></one:T>
+                        <one:OEChildren>
+                          <one:OE creationTime="2012-12-20T08:40:55.000Z" lastModifiedTime="2012-12-20T08:40:56.000Z" objectID="{14829827-B608-467A-A1BF-4BB201A2C91C}{80}{B0}" alignment="left" quickStyleIndex="1">
+                            <one:List>
+                              <one:Number numberSequence="4" numberFormat="##)" fontSize="11.0" font="Calibri" language="1049" text="a)" />
+                            </one:List>
+                            <one:T><![CDATA[С сессии]]></one:T>
+                            <one:OEChildren>
+                              <one:OE creationTime="2012-12-20T08:41:34.000Z" lastModifiedTime="2012-12-20T08:41:36.000Z" objectID="{14829827-B608-467A-A1BF-4BB201A2C91C}{93}{B0}" alignment="left" quickStyleIndex="1">
+                                <one:List>
+                                  <one:Number numberSequence="0" numberFormat="(##)" fontSize="11.0" font="Calibri" language="1049" text="(1)" />
+                                </one:List>
+                                <one:T><![CDATA[Воскресные]]></one:T>
+                                <one:OEChildren>
+                                  <one:OE creationTime="2012-12-20T08:43:19.000Z" lastModifiedTime="2012-12-20T08:43:20.000Z" objectID="{14829827-B608-467A-A1BF-4BB201A2C91C}{125}{B0}" alignment="left" quickStyleIndex="1">
+                                    <one:List>
+                                      <one:Number numberSequence="4" numberFormat="(##)" fontSize="11.0" font="Calibri" language="1049" text="(a)" />
+                                    </one:List>
+                                    <one:T><![CDATA[В этом году]]></one:T>
+                                    <one:OEChildren>
+                                      <one:OE creationTime="2012-12-20T08:43:33.000Z" lastModifiedTime="2012-12-20T08:43:37.000Z" objectID="{14829827-B608-467A-A1BF-4BB201A2C91C}{135}{B0}" alignment="left" quickStyleIndex="1">
+                                        <one:List>
+                                          <one:Number numberSequence="0" numberFormat="## &gt;" fontSize="11.0" font="Calibri" language="1049" text="1 &gt;" />
+                                        </one:List>
+                                        <one:T><![CDATA[Утренние]]></one:T>
+                                        <one:OEChildren>
+                                          <one:OE creationTime="2012-12-20T08:44:27.000Z" lastModifiedTime="2012-12-20T08:44:28.000Z" objectID="{14829827-B608-467A-A1BF-4BB201A2C91C}{153}{B0}" alignment="left" quickStyleIndex="1">
+                                            <one:List>
+                                              <one:Number numberSequence="4" numberFormat="## &gt;" fontSize="11.0" font="Calibri" language="1049" text="a &gt;" />
+                                            </one:List>
+                                            <one:T><![CDATA[Интересные]]></one:T>
+                                            <one:OEChildren>
+                                              <one:OE creationTime="2012-12-20T08:44:52.000Z" lastModifiedTime="2012-12-20T08:46:10.000Z" objectID="{14829827-B608-467A-A1BF-4BB201A2C91C}{172}{B0}" alignment="left" quickStyleIndex="1">
+                                                <one:List>
+                                                  <one:Bullet bullet="8" fontSize="11.0" />
+                                                </one:List>
+                                                <one:T>
+                                                  <![CDATA[<a
+href="onenote://C:/Users/lux_demko/Desktop/temp/OneNote%20Notebooks/Изучение%20Библии/О%20данной%20записной%20книжке.one#Тест%205&amp;section-id={A9474539-F9D8-413A-931D-889244BA895B}&amp;page-id={288CCDD7-37A9-439A-850F-307AC9690A06}&amp;object-id={83C7718C-A65B-021B-071A-CB0D7BBDD9E8}&amp;2F">Тест 5</a>]]>
+                                                </one:T>
+                                              </one:OE>
+                                            </one:OEChildren>
+                                          </one:OE>
+                                        </one:OEChildren>
+                                      </one:OE>
+                                    </one:OEChildren>
+                                  </one:OE>
+                                </one:OEChildren>
+                              </one:OE>
+                            </one:OEChildren>
+                          </one:OE>
+                        </one:OEChildren>
+                      </one:OE>
+                    </one:OEChildren>
+                  </one:OE>
+                </one:OEChildren>
+              </one:OE>
+            </one:OEChildren>
+          </one:OE>
+        </one:OEChildren>
+      </one:OE>
+      <one:OE creationTime="2012-12-20T08:45:36.000Z" lastModifiedTime="2012-12-20T08:45:37.000Z" objectID="{2A7BBB5D-3E6B-49C2-BC16-2FB2FB088ED3}{21}{B0}" alignment="left" quickStyleIndex="1">
+        <one:List>
+          <one:Number numberSequence="1" numberFormat="##." fontSize="11.0" font="Calibri" language="1049" text="II." />
+        </one:List>
+        <one:T><![CDATA[Словари]]></one:T>
+      </one:OE>
+    </one:OEChildren>
+  </one:Outline>
+  <one:Outline selected="partial" author="Aleksandr Demko(Luxsoft)" authorInitials="AD" lastModifiedBy="Aleksandr Demko(Luxsoft)" lastModifiedByInitials="AD" lastModifiedTime="2012-12-20T08:46:14.000Z" objectID="{2A7BBB5D-3E6B-49C2-BC16-2FB2FB088ED3}{47}{B0}">
+    <one:Position x="360.0" y="302.3999938964844" z="1" />
+    <one:Size width="72.0" height="13.42773056030273" />
+    <one:OEChildren selected="partial">
+      <one:OE creationTime="2012-12-20T08:46:13.000Z" lastModifiedTime="2012-12-20T08:46:14.000Z" objectID="{2A7BBB5D-3E6B-49C2-BC16-2FB2FB088ED3}{48}{B0}" alignment="left" quickStyleIndex="1" selected="partial">
+        <one:T selected="all"><![CDATA[]]></one:T>
+      </one:OE>
+    </one:OEChildren>
+  </one:Outline>
+</one:Page>

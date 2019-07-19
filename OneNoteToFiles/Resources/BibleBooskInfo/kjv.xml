@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<ID xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" descr="kjv" alphabet="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz">
+  <BOOK bnumber="1" bshort="ge;gen;gn;genesis">Genesis</BOOK>
+  <BOOK bnumber="2" bshort="ex;exo;exod;exodus">Exodus</BOOK>
+  <BOOK bnumber="3" bshort="lev;le;lv;levit;leviticus">Leviticus</BOOK>
+  <BOOK bnumber="4" bshort="nu;num;nm;numb;numbers">Numbers</BOOK>
+  <BOOK bnumber="5" bshort="de;deut;deu;dt;deuteron;deuteronomy">Deuteronomy</BOOK>
+  <BOOK bnumber="6" bshort="jos;josh;joshua">Joshua</BOOK>
+  <BOOK bnumber="7" bshort="jdg;judg;judge;judges">Judges</BOOK>
+  <BOOK bnumber="8" bshort="ru;ruth;rth;rt">Ruth</BOOK>
+  <BOOK bnumber="9" bshort="1sa;1s;1sam;1sm;1sml;'1samuel'">1 Samuel</BOOK>
+  <BOOK bnumber="10" bshort="2sa;2s;2sam;2sm;2sml;'2samuel'">2 Samuel</BOOK>
+  <BOOK bnumber="11" bshort="1ki;1k;1kn;1kg;1king;1kng;'1kings'">1 Kings</BOOK>
+  <BOOK bnumber="12" bshort="2ki;2k;2kn;2kg;2king;2kng;'2kings'">2 Kings</BOOK>
+  <BOOK bnumber="13" bshort="1chr;1ch;1chron;'1chronicles'">1 Chronicles</BOOK>
+  <BOOK bnumber="14" bshort="2chr;2ch;2chron;'2chronicles'">2 Chronicles</BOOK>
+  <BOOK bnumber="15" bshort="ezr;ezra">Ezra</BOOK>
+  <BOOK bnumber="16" bshort="ne;neh;nehem;nehemiah">Nehemiah</BOOK>
+  <BOOK bnumber="17" bshort="esth;est;esther">Esther</BOOK>
+  <BOOK bnumber="18" bshort="job;jb">Job</BOOK>
+  <BOOK bnumber="19" bshort="ps;psa;psal;psalm;psalms">Psalms</BOOK>
+  <BOOK bnumber="20" bshort="pr;prov;pro;proverb;proverbs">Proverbs</BOOK>
+  <BOOK bnumber="21" bshort="ec;eccl;ecc;ecclesia">Ecclesiastes</BOOK>
+  <BOOK bnumber="22" bshort="song;songs;ss;sol">Song of Solomon</BOOK>
+  <BOOK bnumber="23" bshort="isa;is;isaiah">Isaiah</BOOK>
+  <BOOK bnumber="24" bshort="je;jer;jerem;jeremiah">Jeremiah</BOOK>
+  <BOOK bnumber="25" bshort="la;lam;lament;lamentation;lamentations">Lamentations</BOOK>
+  <BOOK bnumber="26" bshort="ez;eze;ezek;ezekiel">Ezekiel</BOOK>
+  <BOOK bnumber="27" bshort="da;dan;daniel">Daniel</BOOK>
+  <BOOK bnumber="28" bshort="hos;ho;hosea">Hosea</BOOK>
+  <BOOK bnumber="29" bshort="joel;joe">Joel</BOOK>
+  <BOOK bnumber="30" bshort="am;amos;amo">Amos</BOOK>
+  <BOOK bnumber="31" bshort="ob;obad;obadiah;oba">Obadiah</BOOK>
+  <BOOK bnumber="32" bshort="jon;jnh;jona;jonah">Jonah</BOOK>
+  <BOOK bnumber="33" bshort="mi;mic;micah">Micah</BOOK>
+  <BOOK bnumber="34" bshort="na;nah;nahum">Nahum</BOOK>
+  <BOOK bnumber="35" bshort="hab;habak;habakkuk">Habakkuk</BOOK>
+  <BOOK bnumber="36" bshort="zeph;zep;zephaniah">Zephaniah</BOOK>
+  <BOOK bnumber="37" bshort="hag;haggai">Haggai</BOOK>
+  <BOOK bnumber="38" bshort="ze;zec;zech;zechariah">Zechariah</BOOK>
+  <BOOK bnumber="39" bshort="mal;malachi">Malachi</BOOK>
+  
+  <BOOK bnumber="67" bshort="Jdt">Judith</BOOK>
+	<BOOK bnumber="68" bshort="Wis">Wisdom</BOOK>
+	<BOOK bnumber="69" bshort="Tob">Tobit</BOOK>
+	<BOOK bnumber="70" bshort="Sir">Sirach</BOOK>
+	<BOOK bnumber="71" bshort="Bar">Baruch</BOOK>
+	<BOOK bnumber="72" bshort="1Macc">1 Maccabees</BOOK>
+	<BOOK bnumber="73" bshort="2Macc">2 Maccabees</BOOK>
+	<BOOK bnumber="74" bshort="AddDan">AddDan</BOOK>
+	<BOOK bnumber="75" bshort="AddEsth">AddEsth</BOOK>
+	<BOOK bnumber="76" bshort="PrMan">Manassse</BOOK>
+	<BOOK bnumber="77" bshort="3Macc">3 Maccabees</BOOK>
+	<BOOK bnumber="78" bshort="4Macc">4 Maccabees</BOOK>
+	<BOOK bnumber="79" bshort="EpJer">Letter of Jeremiah</BOOK>
+	<BOOK bnumber="80" bshort="1Esd">1 Esdras</BOOK>
+	<BOOK bnumber="81" bshort="2Esd">2 Esdras</BOOK>
+	<BOOK bnumber="82" bshort="OdesSol">Odes of Solomon</BOOK>
+	<BOOK bnumber="83" bshort="PssSol">Psalms of Solomon</BOOK>
+	<BOOK bnumber="84" bshort="Lao">Laodiceans</BOOK>
+	<BOOK bnumber="85" bshort="1En">1 Enoch</BOOK>
+	<BOOK bnumber="86" bshort="Jub">Jubilees</BOOK>
+	<BOOK bnumber="87" bshort="Sus">Susanna</BOOK>
+	<BOOK bnumber="88" bshort="Bel">Bel and the Dragon</BOOK>
+	<BOOK bnumber="89" bshort="Ps151">Psalm 151</BOOK>
+	<BOOK bnumber="90" bshort="SusTh">Susanna (Theodotion)</BOOK>
+	<BOOK bnumber="91" bshort="BelTh">Bel and the Dragon (Theodotion)</BOOK>
+  
+  
+  <BOOK bnumber="40" bshort="mt;ma;matt;mat;matthew">Matthew</BOOK>
+  <BOOK bnumber="41" bshort="mk;mar;mr;mrk;mark">Mark</BOOK>
+  <BOOK bnumber="42" bshort="lk;lu;luk;luke">Luke</BOOK>
+  <BOOK bnumber="43" bshort="jn;jno;joh;john">John</BOOK>
+  <BOOK bnumber="44" bshort="ac;act;acts">Acts</BOOK>
+  <BOOK bnumber="45" bshort="ro;rom;romans">Romans</BOOK>
+  <BOOK bnumber="46" bshort="1co;1cor;1corinth;'1corinthians'">1 Corinthians</BOOK>
+  <BOOK bnumber="47" bshort="2co;2cor;2corinth;'2corinthians'">2 Corinthians</BOOK>
+  <BOOK bnumber="48" bshort="ga;gal;galat;galatians">Galatians</BOOK>
+  <BOOK bnumber="49" bshort="eph;ep;ephes;ephesians">Ephesians</BOOK>
+  <BOOK bnumber="50" bshort="php;ph;phil;phi;philip;philippians">Philippians</BOOK>
+  <BOOK bnumber="51" bshort="col;colos;colossians">Colossians</BOOK>
+  <BOOK bnumber="52" bshort="1th;1thes;1thess;'1thessalonians'">1 Thessalonians</BOOK>
+  <BOOK bnumber="53" bshort="2th;2thes;2thess;'2thessalonians'">2 Thessalonians</BOOK>
+  <BOOK bnumber="54" bshort="1ti;1tim;'1timothy'">1 Timothy</BOOK>
+  <BOOK bnumber="55" bshort="2ti;2tim;'2timothy'">2 Timothy</BOOK>
+  <BOOK bnumber="56" bshort="tit;ti;titus">Titus</BOOK>
+  <BOOK bnumber="57" bshort="phm;phile;phlm;philemon">Philemon</BOOK>
+  <BOOK bnumber="58" bshort="he;heb;hebr;hebrews">Hebrews</BOOK>
+  <BOOK bnumber="59" bshort="jas;ja;jam;jms;james">James</BOOK>
+  <BOOK bnumber="60" bshort="1pe;1pet;'1peter'">1 Peter</BOOK>
+  <BOOK bnumber="61" bshort="2pe;2pet;'2peter'">2 Peter</BOOK>
+  <BOOK bnumber="62" bshort="1jn;1jo;1joh;1jno;'1john'">1 John</BOOK>
+  <BOOK bnumber="63" bshort="2jn;2jo;2joh;2jno;'2john'">2 John</BOOK>
+  <BOOK bnumber="64" bshort="3jn;3jo;3joh;3jno;'3john'">3 John</BOOK>
+  <BOOK bnumber="65" bshort="jud;jude;jd">Jude</BOOK>
+  <BOOK bnumber="66" bshort="rev;re;rv;revelation">Revelation</BOOK>
+</ID>
