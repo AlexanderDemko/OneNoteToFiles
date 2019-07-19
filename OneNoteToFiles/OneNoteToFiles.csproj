@@ -8,8 +8,8 @@
     <ProjectGuid>{0EB175AE-A168-43E7-A5EF-CDF285108C21}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SongHelper</RootNamespace>
-    <AssemblyName>SongHelper</AssemblyName>
+    <RootNamespace>OneNoteToFiles</RootNamespace>
+    <AssemblyName>OneNoteToFiles</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
