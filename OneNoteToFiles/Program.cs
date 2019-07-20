@@ -68,29 +68,6 @@ namespace OneNoteToFiles
             Console.ReadKey();
         }
 
-        private static string SanitizeText(string s)
-        {
-            var sb = new StringBuilder();
-
-            var startPattern = @"<![CDATA[";
-            var startIndex = s.IndexOf(startPattern);
-            while (startIndex > -1)
-            {
-                var endIndex = s.IndexOf("]]", startIndex);
-
-                sb.AppendLine(s.Substring(startIndex + startPattern.Length, endIndex - startIndex - startPattern.Length));
-
-                startIndex = s.IndexOf(startPattern, endIndex);
-            }
-
-            var result = sb.ToString();
-            
-            result = Regex.Replace(result, @"<span[^>]*>", "<span>");
-            result = Regex.Replace(result, @"<a[^>]*>", "<a>");
-
-            return result;
-        }
-
         private static void SaveFiles()
         {
             var fileExt = ".onenote";
@@ -111,11 +88,58 @@ namespace OneNoteToFiles
 
                 var filePath = Path.Combine(SettingsManager.TargetFolderPath, RemoveIllegalChars(pageName) + fileExt);
                 var fileContent = pageContent.ToString();
+                fileContent = RemoveRedundantInfo(fileContent);
+
                 if (SettingsManager.OnlyText)
                     fileContent = SanitizeText(fileContent);                
 
                 File.WriteAllText(filePath, fileContent);
             }
+        }
+
+        private static string RemoveRedundantInfo(string s)
+        {
+            var attributesToDelete = new[]
+            {
+                "author",
+                "authorInitials",
+                "creationTime",
+                "lastModifiedTime",
+                "lastModifiedBy",
+                "lastModifiedByInitials",
+                "objectID",
+                "quickStyleIndex",
+                "lang",
+                "objectID"
+            };
+
+            foreach (var attr in attributesToDelete)            
+                s = Regex.Replace(s, $" {attr}=\"([^\"]*)\"", string.Empty);
+
+            return s;
+        }
+        
+        private static string SanitizeText(string s)
+        {
+            var sb = new StringBuilder();
+
+            var startPattern = @"<![CDATA[";
+            var startIndex = s.IndexOf(startPattern);
+            while (startIndex > -1)
+            {
+                var endIndex = s.IndexOf("]]", startIndex);
+
+                sb.AppendLine(s.Substring(startIndex + startPattern.Length, endIndex - startIndex - startPattern.Length));
+
+                startIndex = s.IndexOf(startPattern, endIndex);
+            }
+
+            var result = sb.ToString();
+            
+            result = Regex.Replace(result, "<span[^>]*>", "<span>");
+            result = Regex.Replace(result, "<a[^>]*>", "<a>");
+
+            return result;
         }
 
         private static string RemoveIllegalChars(string path)
