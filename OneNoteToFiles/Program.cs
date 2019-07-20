@@ -87,11 +87,12 @@ namespace OneNoteToFiles
                 Console.WriteLine($"Saving page: {pageName}");
 
                 var filePath = Path.Combine(SettingsManager.TargetFolderPath, RemoveIllegalChars(pageName) + fileExt);
-                var fileContent = pageContent.ToString();
-                fileContent = RemoveRedundantInfo(fileContent);
+                var fileContent = pageContent.ToString();                
 
                 if (SettingsManager.OnlyText)
                     fileContent = SanitizeText(fileContent);                
+                else
+                    fileContent = RemoveRedundantInfo(fileContent);
 
                 File.WriteAllText(filePath, fileContent);
             }
