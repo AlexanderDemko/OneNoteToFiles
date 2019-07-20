@@ -31,29 +31,29 @@ namespace OneNoteToFiles
             {
                 _oneNoteApp = OneNoteUtils.CreateOneNoteAppSafe();
 
-                var s = @"<one:OE creationTime='2019-01-30T16:11:26.000Z' lastModifiedTime='2019-05-13T03:51:39.000Z' objectID='{E892A88C-B8DF-4EA0-85C7-60A9724D2E46}{17}{B0}' alignment='left' quickStyleIndex='1' style='font-family:Calibri;font-size:11.0pt'>
-                    <one:List>
-                      <one:Number numberSequence='58' numberFormat='##.' fontColor='#FF0000' fontSize='11.0' font='Calibri' italic='true' language='1049' text='а.' />
-                    </one:List>
-                    <one:T><![CDATA[<span
-style='font-style:italic;color:red' lang=ru>Аналогичная реакция была и у Петра, когда он осознал, Кто перед ним находится (</span><a
-href='isbtBibleVerse:rst/42%205:8;Луки%205:8'><span style='font-style:italic;
-background:#92D050' lang=ru>Лк 5:8</span></a><span style='font-style:italic;
-color:red' lang=en-US>). </span>]]></one:T>
-                  </one:OE>
-                  <one:OE creationTime='2019-01-30T16:07:54.000Z' lastModifiedTime='2019-05-13T03:51:39.000Z' objectID='{E892A88C-B8DF-4EA0-85C7-60A9724D2E46}{13}{B0}' alignment='left' quickStyleIndex='1' style='font-family:Calibri;font-size:11.0pt'>
-                    <one:List>
-                      <one:Number numberSequence='58' numberFormat='##.' fontColor='#FF0000' fontSize='11.0' font='Calibri' italic='true' language='1049' text='б.' />
-                    </one:List>
-                    <one:T><![CDATA[<span
-style='font-style:italic;color:red'>В конце своей жизни, находясь в ссылке на острове Патмос, Апостол Иоанн (наиболее приближённый к Иисусу Христу ученик) увидел Иисуса Христа. Иоанн не принялся Его обнимать, а упал как мёртвый (</span><a
-href='isbtBibleVerse:rst/66%201:17;Откровение%201:17&amp;qa=1'><span
-style='font-style:italic;background:#92D050'>Отк 1:17</span></a><span
-style='font-style:italic;color:red'> - дополнительная ссылка).</span>]]></one:T>
-                  </one:OE>";                
+//                var s = @"<one:OE creationTime='2019-01-30T16:11:26.000Z' lastModifiedTime='2019-05-13T03:51:39.000Z' objectID='{E892A88C-B8DF-4EA0-85C7-60A9724D2E46}{17}{B0}' alignment='left' quickStyleIndex='1' style='font-family:Calibri;font-size:11.0pt'>
+//                    <one:List>
+//                      <one:Number numberSequence='58' numberFormat='##.' fontColor='#FF0000' fontSize='11.0' font='Calibri' italic='true' language='1049' text='а.' />
+//                    </one:List>
+//                    <one:T><![CDATA[<span
+//style='font-style:italic;color:red' lang=ru>Аналогичная реакция была и у Петра, когда он осознал, Кто перед ним находится (</span><a
+//href='isbtBibleVerse:rst/42%205:8;Луки%205:8'><span style='font-style:italic;
+//background:#92D050' lang=ru>Лк 5:8</span></a><span style='font-style:italic;
+//color:red' lang=en-US>). </span>]]></one:T>
+//                  </one:OE>
+//                  <one:OE creationTime='2019-01-30T16:07:54.000Z' lastModifiedTime='2019-05-13T03:51:39.000Z' objectID='{E892A88C-B8DF-4EA0-85C7-60A9724D2E46}{13}{B0}' alignment='left' quickStyleIndex='1' style='font-family:Calibri;font-size:11.0pt'>
+//                    <one:List>
+//                      <one:Number numberSequence='58' numberFormat='##.' fontColor='#FF0000' fontSize='11.0' font='Calibri' italic='true' language='1049' text='б.' />
+//                    </one:List>
+//                    <one:T><![CDATA[<span
+//style='font-style:italic;color:red'>В конце своей жизни, находясь в ссылке на острове Патмос, Апостол Иоанн (наиболее приближённый к Иисусу Христу ученик) увидел Иисуса Христа. Иоанн не принялся Его обнимать, а упал как мёртвый (</span><a
+//href='isbtBibleVerse:rst/66%201:17;Откровение%201:17&amp;qa=1'><span
+//style='font-style:italic;background:#92D050'>Отк 1:17</span></a><span
+//style='font-style:italic;color:red'> - дополнительная ссылка).</span>]]></one:T>
+//                  </one:OE>";                
 
-                //var result = SanitizeText(s);
-                //Console.WriteLine(result);
+//                var result = SanitizeText(s);
+//                Console.WriteLine(result);
                                 
                 SaveFiles();
             }
@@ -70,10 +70,10 @@ style='font-style:italic;color:red'> - дополнительная ссылка
 
         private static string SanitizeText(string s)
         {
-            var sb = new StringBuilder();            
+            var sb = new StringBuilder();
 
             var startPattern = @"<![CDATA[";
-            var startIndex = s.IndexOf(startPattern); 
+            var startIndex = s.IndexOf(startPattern);
             while (startIndex > -1)
             {
                 var endIndex = s.IndexOf("]]", startIndex);
@@ -84,7 +84,7 @@ style='font-style:italic;color:red'> - дополнительная ссылка
             }
 
             var result = sb.ToString();
-
+            
             result = Regex.Replace(result, @"<span[^>]*>", "<span>");
             result = Regex.Replace(result, @"<a[^>]*>", "<a>");
 
@@ -99,15 +99,22 @@ style='font-style:italic;color:red'> - дополнительная ссылка
             var files = Directory.GetFiles(SettingsManager.TargetFolderPath, "*" + fileExt);
             foreach (var file in files)
                 File.Delete(file);
-            
+
+            var index = 0;
             foreach (var pageId in pagesIds)
             {
                 var pageContent = OneNoteUtils.GetPageContent(ref _oneNoteApp, pageId, out XmlNamespaceManager xnm);
                 var pageName = (string)pageContent.Root.Attribute("name");
+                pageName = $"{++index:D2}. {pageName}";
 
                 Console.WriteLine($"Saving page: {pageName}");
 
-                File.WriteAllText(Path.Combine(SettingsManager.TargetFolderPath, RemoveIllegalChars(pageName) + fileExt), SanitizeText(pageContent.ToString()));
+                var filePath = Path.Combine(SettingsManager.TargetFolderPath, RemoveIllegalChars(pageName) + fileExt);
+                var fileContent = pageContent.ToString();
+                if (SettingsManager.OnlyText)
+                    fileContent = SanitizeText(fileContent);                
+
+                File.WriteAllText(filePath, fileContent);
             }
         }
 
