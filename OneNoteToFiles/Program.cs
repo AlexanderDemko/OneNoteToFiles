@@ -111,7 +111,9 @@ namespace OneNoteToFiles
                 "objectID",
                 "quickStyleIndex",
                 "lang",
-                "objectID"
+                "objectID",
+                "ID",
+                "callbackID"
             };
 
             foreach (var attr in attributesToDelete)            
